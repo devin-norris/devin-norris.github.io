@@ -2381,7 +2381,7 @@ input, select, textarea {
 		ul.feature-icons li {
 			text-decoration: none;
 			display: inline-block;
-			margin: 0 0 1.6875em 0;
+			margin: 0 0 1em 0;
 			padding: 0.35em 0 0 3.5em;
 			position: relative;
 			vertical-align: top;
@@ -2679,6 +2679,7 @@ input, select, textarea {
 			display: inline-block;
 			vertical-align: middle;
 			width: 50%;
+			font-size: 17px;
 		}
 
 			.features article .inner > :last-child {
@@ -2712,7 +2713,7 @@ input, select, textarea {
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #6790AE;
+			color: #ffffff;
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
